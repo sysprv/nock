@@ -1,0 +1,19 @@
+A simplistic implementation of Nock, a functional assembly language.
+
+Download and build with Maven or your favourite IDE.
+There are JUnit tests.
+
+For more information see:
+- http://urbit.org/doc/
+- http://urbit.org/
+- http://urbit.org/doc/nock/lan/a/
+
+
+Inspired by:
+- https://github.com/jtauber/pynock
+- https://github.com/cmm/nock
+
+
+Other, more beautiful implementations:
+- https://github.com/mmakowski/hock (Haskell)
+- https://github.com/swaldman/nnnock (Scala)
